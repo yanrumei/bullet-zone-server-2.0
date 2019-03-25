@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Bullet Zone Server
+Implementation-Version: 2.0
+Start-Class: edu.unh.cs.cs619.bulletzone.BulletZoneServer
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 1.5.10.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+
